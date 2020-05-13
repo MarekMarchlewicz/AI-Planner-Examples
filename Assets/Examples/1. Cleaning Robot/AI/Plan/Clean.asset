@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba34515fc82b64f37966f612cca1f4c9, type: 3}
+  m_Name: Clean
+  m_EditorClassIdentifier: 
+  m_ActionDefinitions:
+  - {fileID: 11400000, guid: 58b5e3b0d2b15be418b0f0f5f01a5d35, type: 2}
+  - {fileID: 11400000, guid: 1f2a4857dc70d3148804f2225a2830c9, type: 2}
+  - {fileID: 11400000, guid: 321c6d28d269ab140b0b831291617623, type: 2}
+  m_StateTerminationDefinitions:
+  - {fileID: 11400000, guid: 0d39909aace7ecb4d900dbbbefa2a6da, type: 2}
+  - {fileID: 11400000, guid: ab5e3a01418bf9d44915df380aa3da83, type: 2}
+  m_CustomHeuristic: 
+  m_DefaultHeuristicLower: -100
+  m_DefaultHeuristicAverage: 0
+  m_DefaultHeuristicUpper: 100
+  DiscountFactor: 0.95
